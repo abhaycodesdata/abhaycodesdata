@@ -3,7 +3,7 @@
 📍 Stockholm, Sweden  
 📧 Email: abhaysingh89@hotmail.com  
 🔗 LinkedIn: [abhay-singh-datascientist](https://www.linkedin.com/in/abhay-singh-full-stackdatascientist/)  
-👨‍💻 GitHub: <your-github-username>  
+👨‍💻 GitHub: <data-science-portfolio> (https://github.com/abhaycodesdata/data-science-portfolio)
 
 ---
 
