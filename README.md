@@ -2,7 +2,7 @@
 🚀 Data Engineering Professional | AI/ML & Bayesian Modeling  
 📍 Stockholm, Sweden  
 📧 Email: abhaysingh89@hotmail.com  
-🔗 LinkedIn: abhay-singh-dataengineer  
+🔗 LinkedIn: [abhay-singh-datascientist](https://www.linkedin.com/in/abhay-singh-full-stackdatascientist/)  
 👨‍💻 GitHub: <your-github-username>  
 
 ---
