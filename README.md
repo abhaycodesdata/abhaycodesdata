@@ -8,7 +8,7 @@
 ---
 
 ### About Me 🌐  
-Blending **10+ years of experience in Data Engineering** with an ongoing **Master’s in Data Science (Stockholm University)**, I build scalable data platforms and apply **AI/ML, Bayesian methods, and time series forecasting** to solve real-world problems.  
+Blending **10+ years of experience in Data Engineering and internship in Data Science** with an ongoing **Master’s in Data Science (Stockholm University)**, I build scalable data platforms and apply **AI/ML, Bayesian methods, and time series forecasting** to solve real-world problems.  
 
 ---
 
