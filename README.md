@@ -25,8 +25,8 @@ With **10+ years of experience in Data Engineering** and an internship in **Data
 ---
 
 ### Tech Toolbox 🛠️  
-**Languages:** Python, R, SQL 
-**ML/AI:** CNNs, RNNs (LSTM/GRU), Transformers (BERT), Bayesian Inference, Time-Series Forecasting   
+**Languages:** Python, R, SQL  
+**ML/AI:** CNNs, RNNs (LSTM/GRU), Transformers (BERT), Bayesian Inference, Time-Series Forecasting  
 **Frameworks & Libraries:** PyTorch, Hugging Face, scikit-learn, Pandas, NumPy  
 **Platforms & Tools:** Azure Data Factory, Databricks (PySpark/Spark), AWS S3, Power BI, SSIS, Git, CI/CD  
 **Specialties:** Deep Learning, Statistical Modeling, Decision Analysis, Data Engineering, ETL/ELT, Time Series Forecasting  
