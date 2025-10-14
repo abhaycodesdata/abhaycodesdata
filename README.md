@@ -39,4 +39,4 @@ With **10+ years of experience in Data Engineering** and an internship in **Data
 
 ---
 
-✨ Let’s connect on **AI, ML, Dat Science and data engineering**
+✨ Let’s connect on **AI, ML, Data Science and data engineering**
