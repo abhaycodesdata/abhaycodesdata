@@ -16,8 +16,8 @@ With **10+ years of experience in Data Engineering** and an internship in **Data
 
 ### Professional Highlights 🌟  
 🎓 **MS Data Science** – Stockholm University *(2024 – Present)*  
-💼 **Consultant / Internship** – Swedbank, Stockholm *(2024 – 2025)*  
-🚀 **Lead Consultant (Data Engineering)** – ITC Infotech, India *(2021 – 2024)*  
+💼 **Data Consultant** – Swedbank, Stockholm *(2024 – 2025)*  
+🚀 **Lead Data Consultant ** – ITC Infotech, India *(2021 – 2024)*  
 🧠 **Senior Software Engineer** – IQVIA, India *(2019 – 2021)*  
 ⚙️ **Software / Data Engineer** – Conduent & Safran Aerospace, India *(2015 – 2019)*  
 💻 **Developer** – Elets Technomedia, India *(2013 – 2015)*
