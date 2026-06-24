@@ -2,8 +2,8 @@
 🚀 MS Data Science student specializing in ML, Deep Learning & Applied Mathematics | Data Engineering Professional
 📍 Stockholm, Sweden  
 📧 Email: abhaysingh89@hotmail.com  
-🔗 LinkedIn: [abhay-singh-datascientist](https://www.linkedin.com/in/abhay-singh-full-stackdatascientist/)  
-👨‍💻 GitHub: [Data & AI](https://github.com/abhaycodesdata/data-science-portfolio)
+🔗 LinkedIn: [abhay-singh-datascientist](www.linkedin.com/in/abhay-data-ai)  
+👨‍💻 GitHub: [Data & AI](https://github.com/abhaycodesdata)
 
 ---
 
