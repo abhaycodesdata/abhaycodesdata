@@ -48,12 +48,12 @@ A clean overview of the tools and concepts I use across **Data Engineering, Clou
 
 | Category | Skills |
 |---|---|
-| **Data Engineering** | `ETL/ELT` `Data Pipelines` `Data Modeling` `Data Warehousing` `Data Lakehouse` `Batch Processing` `Data Quality` `Analytics Engineering` |
-| **Cloud & Data Platforms** | `Azure Data Factory` `Azure Databricks` `Azure Data Lake Storage` `Azure SQL` `Delta Lake` `Microsoft Fabric` `SQL Server` `SSIS` `AWS S3` |
-| **Programming & Analytics** | `Python` `PySpark` `SQL` `R` `Pandas` `NumPy` `Spark` |
-| **AI / ML / Data Science** | `Machine Learning` `Deep Learning` `CNNs` `RNNs` `LSTM/GRU` `Transformers` `BERT` `Bayesian Inference` `Time-Series Forecasting` `Statistical Modeling` `Azure AI Foundry` |
-| **Frameworks & Libraries** | `PyTorch` `Hugging Face` `scikit-learn` `Pandas` `NumPy` |
-| **BI, DevOps & Practices** | `Power BI` `Git` `CI/CD` `Agile Delivery` `Data Validation` `Monitoring` `Documentation` |
+| **Data Engineering** | `ETL/ELT` · `Data Pipelines` · `Data Modeling` · `Data Warehousing` · `Data Lakehouse` · `Batch Processing` · `Data Quality` · `Analytics Engineering` |
+| **Cloud & Data Platforms** | `Azure Data Factory` · `Azure Databricks` · `Azure Data Lake Storage` · `Azure SQL` · `Delta Lake` · `Microsoft Fabric` · `SQL Server` · `SSIS` · `AWS S3` |
+| **Programming & Analytics** | `Python` · `PySpark` · `SQL` · `R` · `Pandas` · `NumPy` · `Spark` |
+| **AI / ML / Data Science** | `Machine Learning` · `Deep Learning` · `CNNs` · `RNNs` · `LSTM/GRU` · `Transformers` · `BERT` · `Bayesian Inference` · `Time-Series Forecasting` · `Statistical Modeling` · `Azure AI Foundry` |
+| **Frameworks & Libraries** | `PyTorch` · `Hugging Face` · `scikit-learn` · `Pandas` · `NumPy` |
+| **BI, DevOps & Practices** | `Power BI` · `Git` · `CI/CD` · `Agile Delivery` · `Data Validation` · `Monitoring` · `Documentation` |
 
 ---
 
@@ -69,17 +69,22 @@ A clean overview of the tools and concepts I use across **Data Engineering, Clou
 
 ## 🏅 Certification Gallery
 
-> Create a folder named `assets/certifications/` in your GitHub repository and upload your certificate images there.  
-> Keep the same file names used below, or update the image paths after uploading.
-
 <p align="center">
-  <img src="assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="620"/>
+  <img src="./assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="650"/>
 </p>
 
+<!--
+When you have image files for the Microsoft certificates, upload them to:
+assets/certifications/fabric-data-engineer-associate.png
+assets/certifications/azure-data-scientist-associate.png
+
+Then uncomment this section:
+
 <p align="center">
-  <img src="assets/certifications/fabric-data-engineer-associate.png" alt="Microsoft Fabric Data Engineer Associate" width="310"/>
-  <img src="assets/certifications/azure-data-scientist-associate.png" alt="Microsoft Azure Data Scientist Associate" width="310"/>
+  <img src="./assets/certifications/fabric-data-engineer-associate.png" alt="Microsoft Fabric Data Engineer Associate" width="310"/>
+  <img src="./assets/certifications/azure-data-scientist-associate.png" alt="Microsoft Azure Data Scientist Associate" width="310"/>
 </p>
+-->
 
 ---
 
