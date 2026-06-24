@@ -44,43 +44,16 @@ My strength is combining practical enterprise data engineering experience with m
 
 ## 🛠️ Tech Toolbox
 
-### Data Engineering
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-Data%20Pipelines-lightgrey?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data-Modeling-lightgrey?style=flat-square)
-![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-lightgrey?style=flat-square)
-![Lakehouse](https://img.shields.io/badge/Data-Lakehouse-lightgrey?style=flat-square)
-![Data Quality](https://img.shields.io/badge/Data-Quality-lightgrey?style=flat-square)
-![Analytics Engineering](https://img.shields.io/badge/Analytics-Engineering-lightgrey?style=flat-square)
+A clean overview of the tools and concepts I use across **Data Engineering, Cloud Data Platforms, Analytics, and AI**.
 
-`ETL/ELT` `Data Pipelines` `Data Modeling` `Data Warehousing` `Data Lakehouse` `Batch Processing` `Data Quality` `Analytics Engineering`
-
-### Cloud & Data Platforms
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-lightgrey?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-`Azure Data Factory` `Azure Databricks` `Azure Data Lake Storage` `Azure SQL` `Delta Lake` `Microsoft Fabric` `SQL Server` `SSIS` `AWS S3`
-
-### Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square)
-![PySpark](https://img.shields.io/badge/PySpark-Spark-orange?style=flat-square)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-`Python` `PySpark` `SQL` `R` `Pandas` `NumPy` `Spark`
-
-### AI / ML / Data Science
-![AI](https://img.shields.io/badge/AI-Machine%20Learning-lightgrey?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-lightgrey?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time--Series-Forecasting-lightgrey?style=flat-square)
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-AI%20Apps-lightgrey?style=flat-square)
-
-`Machine Learning` `Deep Learning` `CNNs` `RNNs` `LSTM/GRU` `Transformers` `BERT` `Bayesian Inference` `Time-Series Forecasting` `Statistical Modeling` `Azure AI Foundry`
-
-### Frameworks, BI & Tools
-`PyTorch` `Hugging Face` `scikit-learn` `Pandas` `NumPy` `Power BI` `Git` `CI/CD` `Agile Delivery` `Data Validation` `Monitoring` `Documentation`
+| Category | Skills |
+|---|---|
+| **Data Engineering** | `ETL/ELT` `Data Pipelines` `Data Modeling` `Data Warehousing` `Data Lakehouse` `Batch Processing` `Data Quality` `Analytics Engineering` |
+| **Cloud & Data Platforms** | `Azure Data Factory` `Azure Databricks` `Azure Data Lake Storage` `Azure SQL` `Delta Lake` `Microsoft Fabric` `SQL Server` `SSIS` `AWS S3` |
+| **Programming & Analytics** | `Python` `PySpark` `SQL` `R` `Pandas` `NumPy` `Spark` |
+| **AI / ML / Data Science** | `Machine Learning` `Deep Learning` `CNNs` `RNNs` `LSTM/GRU` `Transformers` `BERT` `Bayesian Inference` `Time-Series Forecasting` `Statistical Modeling` `Azure AI Foundry` |
+| **Frameworks & Libraries** | `PyTorch` `Hugging Face` `scikit-learn` `Pandas` `NumPy` |
+| **BI, DevOps & Practices** | `Power BI` `Git` `CI/CD` `Agile Delivery` `Data Validation` `Monitoring` `Documentation` |
 
 ---
 
@@ -100,7 +73,7 @@ My strength is combining practical enterprise data engineering experience with m
 > Keep the same file names used below, or update the image paths after uploading.
 
 <p align="center">
-  <img src="assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="600"/>
+  <img src="assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="620"/>
 </p>
 
 <p align="center">
