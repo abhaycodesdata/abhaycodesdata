@@ -69,23 +69,67 @@ A clean overview of the tools and concepts I use across **Data Engineering, Clou
 
 ## 🏅 Certification Gallery
 
+Here are some of my key certifications in **Data Engineering, Cloud, and AI**.
+
+### Core Certifications
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/certifications/fabric-data-engineer-associate.jpg" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100%"><br/>
+      <b>Microsoft Certified: Fabric Data Engineer Associate</b><br/>
+      <sub>Earned: June 23, 2025 | Expires: June 24, 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/certifications/azure-data-scientist-associate.jpg" alt="Microsoft Certified: Azure Data Scientist Associate" width="100%"><br/>
+      <b>Microsoft Certified: Azure Data Scientist Associate</b><br/>
+      <sub>Earned: October 7, 2025 | Expires: October 8, 2026</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="./assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="650"/>
+  <img src="./assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="85%"><br/>
+  <b>Databricks Certified Data Engineer Professional</b><br/>
+  <sub>Issued: May 22, 2026 | Expires: May 22, 2028</sub>
 </p>
 
-<!--
-When you have image files for the Microsoft certificates, upload them to:
-assets/certifications/fabric-data-engineer-associate.png
-assets/certifications/azure-data-scientist-associate.png
-
-Then uncomment this section:
+### Additional Learning
 
 <p align="center">
-  <img src="./assets/certifications/fabric-data-engineer-associate.png" alt="Microsoft Fabric Data Engineer Associate" width="310"/>
-  <img src="./assets/certifications/azure-data-scientist-associate.png" alt="Microsoft Azure Data Scientist Associate" width="310"/>
+  <img src="./assets/certifications/linkedin-learning-data-analytics.jpg" alt="LinkedIn Learning - Introduction to Career Skills in Data Analytics" width="85%"><br/>
+  <b>LinkedIn Learning: Introduction to Career Skills in Data Analytics</b><br/>
+  <sub>Completed: September 21, 2024</sub>
 </p>
--->
 
+---
+
+### Minimal Version for README
+
+```md
+## 📜 Certification Gallery
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/certifications/fabric-data-engineer-associate.jpg" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100%"><br/>
+      <b>Microsoft Certified: Fabric Data Engineer Associate</b><br/>
+      <sub>Earned: June 23, 2025 | Expires: June 24, 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/certifications/azure-data-scientist-associate.jpg" alt="Microsoft Certified: Azure Data Scientist Associate" width="100%"><br/>
+      <b>Microsoft Certified: Azure Data Scientist Associate</b><br/>
+      <sub>Earned: October 7, 2025 | Expires: October 8, 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="85%"><br/>
+  <b>Databricks Certified Data Engineer Professional</b><br/>
+  <sub>Issued: May 22, 2026 | Expires: May 22, 2028</sub>
+</p>
+```
 ---
 
 ## 🎯 Current Focus
