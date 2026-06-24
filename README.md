@@ -104,34 +104,6 @@ Here are some of my key certifications in **Data Engineering, Cloud, and AI**.
 
 ---
 
-### Minimal Version for README
-
-```md
-## 📜 Certification Gallery
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/certifications/fabric-data-engineer-associate.jpg" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100%"><br/>
-      <b>Microsoft Certified: Fabric Data Engineer Associate</b><br/>
-      <sub>Earned: June 23, 2025 | Expires: June 24, 2026</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/certifications/azure-data-scientist-associate.jpg" alt="Microsoft Certified: Azure Data Scientist Associate" width="100%"><br/>
-      <b>Microsoft Certified: Azure Data Scientist Associate</b><br/>
-      <sub>Earned: October 7, 2025 | Expires: October 8, 2026</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="85%"><br/>
-  <b>Databricks Certified Data Engineer Professional</b><br/>
-  <sub>Issued: May 22, 2026 | Expires: May 22, 2028</sub>
-</p>
-```
----
-
 ## 🎯 Current Focus
 
 I am focused on **cloud data engineering, Microsoft Fabric, Azure Databricks, AI-ready data platforms, analytics engineering, and applied machine learning**.
