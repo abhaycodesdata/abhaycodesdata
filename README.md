@@ -1,124 +1,107 @@
-# 👋 Hello, I'm Abhay Singh
+# Hi, I'm Abhay Singh
 
-### 🚀 Data Engineer | MS Data Science Graduate | AI & Cloud Data Enthusiast
+### Senior Data Engineer | Azure & Databricks Lakehouse | AI-Ready Data Platforms | MSc Data Science
 
-<p>
-  <a href="mailto:abhaysingh89@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-abhaysingh89%40hotmail.com-blue?style=for-the-badge&logo=microsoftoutlook" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-data-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-abhay--data--ai-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/abhaycodesdata">
-    <img src="https://img.shields.io/badge/GitHub-abhaycodesdata-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
-📍 **Stockholm, Sweden**
+📍 Stockholm, Sweden  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhay-data-ai)  
+📧 abhaysingh89@hotmail.com  
 
 ---
 
-## 🌐 About Me
+## Executive Snapshot
 
-I am a **Data Engineering professional with 10+ years of experience** in building ETL/ELT pipelines, data platforms, reporting solutions, and analytics-ready datasets across **SSIS, SQL Server, Azure, Databricks, PySpark, SQL, and Power BI**.
+I am a Senior Data Engineer with 10+ years of experience designing, building, and supporting enterprise data platforms, ETL/ELT pipelines, analytics solutions, and cloud-native data products across banking, financial services, healthcare, retail, and enterprise domains.
 
-I have completed my **Master’s in Data Science from Stockholm University**, strengthening my knowledge in **Machine Learning, Deep Learning, Applied Mathematics, Statistical Modeling, Time-Series Forecasting, and AI-driven analytics**.
+My core strength is connecting practical data engineering delivery with modern AI and machine learning readiness: reliable pipelines, governed lakehouse layers, curated data models, BI-ready datasets, and ML-ready data foundations.
 
-My strength is combining practical enterprise data engineering experience with modern cloud, analytics, and AI knowledge. I enjoy building clean, scalable, and trusted data solutions that help businesses move from raw data to reporting, insights, and AI-ready platforms.
+Recently completed an MSc in Data Science from Stockholm University, strengthening my foundation in machine learning, deep learning, statistical modeling, time-series forecasting, reinforcement learning, and applied analytics.
 
 ---
 
-## 🌟 Professional Highlights
+## What I Bring
 
-| Area | Highlights |
+| Area | Strength |
 |---|---|
-| 🎓 Education | **MS Data Science** - Stockholm University, Sweden |
-| 🎓 Degree | **B.Tech Computer Science** - UPTU, India *(2008 - 2012)* |
-| 💼 Recent Role | **Data Engineering Consultant** - Swedbank, Stockholm *(2024 - 2025)* |
-| 🚀 Leadership | **Lead Data Consultant** - ITC Infotech, India *(2021 - 2024)* |
-| 🧠 Healthcare Data | **Senior Software Engineer** - IQVIA, India *(2019 - 2021)* |
-| ⚙️ Engineering | **Software / Data Engineer** - Conduent & Safran Aerospace, India *(2015 - 2019)* |
-| 💻 Early Career | **Developer** - Elets Technomedia, India *(2013 - 2015)* |
+| Data Platform Engineering | Azure Data Factory, Azure Databricks, ADLS Gen2, Delta Lake, SQL Server, Microsoft Fabric |
+| Lakehouse & Data Modeling | Medallion architecture, dimensional modeling, curated analytical layers, data marts |
+| Data Pipelines | Batch ingestion, incremental loading, SCD Type 2, MERGE patterns, orchestration, validation |
+| Programming | SQL, Python, PySpark, Spark, Pandas, R |
+| Analytics & BI | Power BI-ready datasets, KPI layers, executive reporting, operational analytics |
+| Governance & Reliability | Data quality, lineage, monitoring, Unity Catalog, secure access, maintainable design |
+| AI / ML Readiness | ML-ready datasets, time-series forecasting, reinforcement learning, Azure AI Foundry, Azure OpenAI integration |
+| Leadership | Lead data consultant experience, stakeholder communication, delivery ownership, mentoring mindset |
 
 ---
 
-## 🛠️ Tech Toolbox
+## Featured Portfolio
 
-A clean overview of the tools and concepts I use across **Data Engineering, Cloud Data Platforms, Analytics, and AI**.
+### 1. Strawberry Business Intelligence Platform
+End-to-end BI and data platform case study covering ADF-style orchestration, Landing/Bronze/Silver/Gold layers, Delta Lake, dimensional modeling, department-specific marts, and an AI-powered detractor response agent.
 
-| Category | Skills |
+**Demonstrates:** enterprise architecture, lakehouse design, business data products, AI integration, operational runbooks, and production-style thinking.
+
+### 2. Azure Databricks Data Engineering Project
+Azure-based data engineering implementation using ADF, ADLS Gen2, Databricks, Delta Lake, medallion architecture, and Power BI-oriented consumption layers.
+
+**Demonstrates:** cloud data engineering, pipeline design, transformation logic, and analytics-ready data delivery.
+
+### 3. IoT Sensor Scheduling with Reinforcement Learning
+Master thesis project focused on reinforcement learning for IoT sensor scheduling and optimization.
+
+**Demonstrates:** applied machine learning, experimentation, research implementation, Python engineering, and optimization mindset.
+
+### 4. Data Science Portfolio
+Collection of academic and applied work across statistics, machine learning, forecasting, regression, and exploratory analytics.
+
+**Demonstrates:** data science foundation, modeling capability, and ability to connect analytics with engineering.
+
+---
+
+## Certifications
+
+| Certification | Status |
 |---|---|
-| **Data Engineering** | `ETL/ELT` · `Data Pipelines` · `Data Modeling` · `Data Warehousing` · `Data Lakehouse` · `Batch Processing` · `Data Quality` · `Analytics Engineering` |
-| **Cloud & Data Platforms** | `Azure Data Factory` · `Azure Databricks` · `Azure Data Lake Storage` · `Azure SQL` · `Delta Lake` · `Microsoft Fabric` · `SQL Server` · `SSIS` · `AWS S3` |
-| **Programming & Analytics** | `Python` · `PySpark` · `SQL` · `R` · `Pandas` · `NumPy` · `Spark` |
-| **AI / ML / Data Science** | `Machine Learning` · `Deep Learning` · `CNNs` · `RNNs` · `LSTM/GRU` · `Transformers` · `BERT` · `Bayesian Inference` · `Time-Series Forecasting` · `Statistical Modeling` · `Azure AI Foundry` |
-| **Frameworks & Libraries** | `PyTorch` · `Hugging Face` · `scikit-learn` · `Pandas` · `NumPy` |
-| **BI, DevOps & Practices** | `Power BI` · `Git` · `CI/CD` · `Agile Delivery` · `Data Validation` · `Monitoring` · `Documentation` |
+| Databricks Certified Data Engineer Professional | Valid until May 2028 |
+| Microsoft Certified: Fabric Data Engineer Associate | Valid until 2026 |
+| Microsoft Certified: Azure Data Scientist Associate | Valid until 2026 |
 
 ---
 
-## 📜 Certifications
+## Current Focus
 
-| Certification | Validity |
-|---|---|
-| 💠 **Microsoft Certified: Fabric Data Engineer Associate** | Valid till Oct 2026 |
-| 💠 **Microsoft Certified: Azure Data Scientist Associate** | Valid till June 2026 |
-| 💠 **Databricks Certified Data Engineer Professional** | Valid till May 2028 |
+I am focused on senior and lead-level data engineering roles where I can help teams build scalable, governed, AI-ready data platforms using Azure, Databricks, Microsoft Fabric, PySpark, SQL, and modern lakehouse architecture.
 
----
+I am especially interested in roles involving:
 
-## 🏅 Certification Gallery
-
-Here are some of my key certifications in **Data Engineering, Cloud, and AI**.
-
-### Core Certifications
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/certifications/fabric-data-engineer-associate.jpg" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100%"><br/>
-      <b>Microsoft Certified: Fabric Data Engineer Associate</b><br/>
-      <sub>Earned: June 23, 2025 | Expires: June 24, 2026</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/certifications/azure-data-scientist-associate.jpg" alt="Microsoft Certified: Azure Data Scientist Associate" width="100%"><br/>
-      <b>Microsoft Certified: Azure Data Scientist Associate</b><br/>
-      <sub>Earned: October 7, 2025 | Expires: October 8, 2026</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/certifications/databricks-data-engineer-professional.png" alt="Databricks Certified Data Engineer Professional" width="85%"><br/>
-  <b>Databricks Certified Data Engineer Professional</b><br/>
-  <sub>Issued: May 22, 2026 | Expires: May 22, 2028</sub>
-</p>
-
-### Additional Learning
-
-<p align="center">
-  <img src="./assets/certifications/linkedin-learning-data-analytics.jpg" alt="LinkedIn Learning - Introduction to Career Skills in Data Analytics" width="85%"><br/>
-  <b>LinkedIn Learning: Introduction to Career Skills in Data Analytics</b><br/>
-  <sub>Completed: September 21, 2024</sub>
-</p>
+- Cloud data platform design and modernization
+- Enterprise data pipelines and lakehouse architecture
+- Analytics engineering and trusted data products
+- BI, reporting, and executive decision support
+- AI-ready data foundations and ML implementation support
+- Technical leadership, delivery ownership, and mentoring
 
 ---
 
-## 🎯 Current Focus
+## How I Think About Data Engineering
 
-I am focused on **cloud data engineering, Microsoft Fabric, Azure Databricks, AI-ready data platforms, analytics engineering, and applied machine learning**.
+Good data engineering is not only about moving data. It is about building trusted systems that are understandable, reliable, scalable, secure, and useful for the business.
 
-I am especially interested in roles where I can contribute to building scalable data platforms, reliable data pipelines, trusted analytical layers, and modern data solutions that support reporting, advanced analytics, and AI initiatives.
+My approach is simple:
+
+1. Understand the business problem.
+2. Design the right data model and platform flow.
+3. Build clean and testable pipelines.
+4. Add quality, monitoring, and governance early.
+5. Deliver data products that analytics, BI, and AI teams can actually use.
 
 ---
 
-## ✨ Let’s Connect
+## Technical Stack
 
-I enjoy connecting with people working in **Data Engineering, AI, Machine Learning, Analytics, Cloud Data Platforms, and Microsoft/Azure technologies**.
+`Azure Data Factory` · `Azure Databricks` · `PySpark` · `SQL` · `Python` · `Delta Lake` · `ADLS Gen2` · `Microsoft Fabric` · `Power BI` · `SQL Server` · `SSIS` · `Unity Catalog` · `Git` · `CI/CD` · `Machine Learning` · `Deep Learning` · `Reinforcement Learning` · `Azure AI Foundry` · `Azure OpenAI`
 
 ---
 
-<p align="center">
-  <b>Data Engineering + AI + Cloud Platforms</b><br/>
-  Building trusted data foundations for analytics, reporting, and AI-ready solutions.
-</p>
+## Let's Connect
+
+I am open to conversations around Senior Data Engineer, Lead Data Engineer, Data Platform Engineer, Analytics Engineering, and AI-ready data platform roles in Sweden and across Europe.
